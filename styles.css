@@ -309,9 +309,8 @@ a {
 }
 
 .app-showcase__phone {
-    flex: 0 1 480px;
-    min-width: 250px;
-    border-radius: 0;
+    width: 480px;
+    height: auto;
     margin-left: 120px;
 }
 
