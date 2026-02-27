@@ -26,6 +26,10 @@ img {
     display: block;
 }
 
+.banner-image {
+    margin-bottom: 600px;
+}
+
 a {
     text-decoration: none;
     color: inherit;
